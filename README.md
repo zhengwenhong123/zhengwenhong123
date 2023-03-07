@@ -1,12 +1,11 @@
 <div align="center">
-  
   <h1>Hi there 👋</h1>
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
-
-
 </div>
+#  🙋 Hello
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontEndDevelopment
 - 👯 I’m looking to collaborate on ...
