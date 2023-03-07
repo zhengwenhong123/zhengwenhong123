@@ -9,4 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
 <!-- [![zhengwenhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengwenhong123)](https://github.com/anuraghazra/github-readme-stats) -->
+![zhengwenhong GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengwenhong&show_icons=true&theme=radical)
 ![zhengwenhong's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=zhengwenhong123&show_icons=true&count_private=true&theme=radical)
