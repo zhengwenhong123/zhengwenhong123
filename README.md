@@ -34,7 +34,7 @@
   <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
   <br>
    <img src="https://github-readme-stats.vercel.app/api?username=zhengwenhong123&show_icons=true&theme=cobalt"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengwenhong123&theme=dark></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengwenhong123&theme=dark&layout=default></img>
 </div>
 
 <!-- just img 图片 -->
