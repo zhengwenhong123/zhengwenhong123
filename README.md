@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there 👋</h1>
-
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
 </div>
@@ -13,18 +12,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...<br>
-  
  
- <div align="center">
- 
-  </div> 
 <!-- gif -->
-<table>
-<tr><td>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250">
   <br>
-  💪 正在学习
+  <h1>💪 正在学习</h1>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></img>
