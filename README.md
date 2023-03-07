@@ -10,4 +10,7 @@
 - ⚡ Fun fact: ...<br>
 <!-- [![zhengwenhong's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengwenhong123)](https://github.com/anuraghazra/github-readme-stats) -->
 ![](https://github-readme-stats.vercel.app/api?username=zhengwenhong123&show_icons=true&theme=cobalt)
-![zhengwenhong's](https://github-readme-stats.vercel.app/api/top-langs?username=zhengwenhong123&show_icons=true&theme=cobalt)
+<!-- ![zhengwenhong's](https://github-readme-stats.vercel.app/api/top-langs?username=zhengwenhong123&show_icons=true&theme=cobalt) -->
+![zhengwenhong's](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengwenhong123&layout=compact&hide_border=true&langs_count=10)
+
+
