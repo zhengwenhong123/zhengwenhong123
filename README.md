@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋</h1>
-<img src='C:/Users/1716142352/Desktop/dongtu.gif'></img>
+<img src='C:\Users\1716142352\Desktop\dongtu.gif'></img>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontEndDevelopment
 - 👯 I’m looking to collaborate on ...
