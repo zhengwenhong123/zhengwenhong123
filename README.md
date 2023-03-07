@@ -31,5 +31,5 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengwenhong123&show_icons=true&theme=cobalt)
+![zhengwenhong GitHub stats](https://github-readme-stats.vercel.app/api?username=zhengwenhong123&show_icons=true&theme=cobalt)
 ![zhengwenhong's](https://github-readme-stats.vercel.app/api/top-langs?username=zhengwenhong123&show_icons=true&theme=cobalt)
