@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋</h1>
-<img src="https://camo.githubusercontent.com/c31248d607b3c8fe3175a3b6ca8d8f297ec4e2ce91daefa658ab2c34982890ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966"></img>
+<img align ="center" src="https://camo.githubusercontent.com/c31248d607b3c8fe3175a3b6ca8d8f297ec4e2ce91daefa658ab2c34982890ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966"></img>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning frontEndDevelopment
 - 👯 I’m looking to collaborate on ...
@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...<br>
 ![](https://github-readme-stats.vercel.app/api?username=zhengwenhong123&show_icons=true&theme=cobalt)
 ![zhengwenhong's](https://github-readme-stats.vercel.app/api/top-langs?username=zhengwenhong123&show_icons=true&theme=cobalt)
-<!-- ![zhengwenhong's](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengwenhong123&layout=compact&hide_border=true&langs_count=10) -->
+
 
 
 
