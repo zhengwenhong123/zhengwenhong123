@@ -37,8 +37,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhengwenhong123&show-icons=true&theme=cobalt"></img>
 </div>
 
-<!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div> -->
+
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <br>
 
 <!-- <div align="center">
