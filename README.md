@@ -44,4 +44,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhengwenhong123&theme=vue"></img>  
 </div>
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
