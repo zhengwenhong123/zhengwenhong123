@@ -41,6 +41,9 @@
  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <br>
 
+<div align="center">
+    <img src="https://camo.githubusercontent.com/95feba6f3724f6cb8764a9b61a2c915355f2c757081a948d9f8dbf6c77c591fd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f726f636b65742e706e67"
+</div>
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhengwenhong123&theme=vue"></img>  
 </div> -->
