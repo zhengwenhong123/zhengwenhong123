@@ -14,7 +14,7 @@
 
 <br>
 
-<a href="https://yantu.cloudns.club/"><img src="./assets/badges/portfolio.svg" alt="Portfolio"></a> <a href="https://github.com/zhengwenhong123"><img src="./assets/badges/github.svg" alt="GitHub"></a> <a href="mailto:z1716142352@gmail.com"><img src="./assets/badges/email.svg" alt="Email"></a> <a href="https://x.com/starweave_verse"><img src="./assets/badges/x.svg" alt="X"></a>
+<a href="https://yantu.cloudns.club/"><img src="./assets/badges/portfolio.svg" alt="Portfolio"></a> <a href="https://github.com/zhengwenhong123"><img src="./assets/badges/github.svg" alt="GitHub"></a> <a href="mailto:z1716142352@gmail.com"><img src="./assets/badges/email.svg" alt="Email"></a>
 
 <br>
 
@@ -116,7 +116,7 @@
 ## 📬 Let's Connect
 
 <p align="center">
-<a href="mailto:z1716142352@gmail.com">z1716142352@gmail.com</a> · <a href="https://x.com/starweave_verse">@starweave_verse</a>
+<a href="mailto:z1716142352@gmail.com">z1716142352@gmail.com</a>
 </p>
 
 ---
