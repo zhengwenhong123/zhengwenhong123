@@ -1,67 +1,77 @@
-![](README/Bottom_up.svg)
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
-
-[//]: # (<div align="center">)
-
-[//]: # (  <h1>Hi there 👋</h1>)
-
-[//]: # (  <!-- knock code pictures 敲代码的图片 -->)
-
-[//]: # (  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>)
-
-[//]: # (</div>)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning frontEndDevelopment
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<br>
- 
-<!-- gif -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250">
-  <br>
-  <h1>💪 正在学习</h1>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></img>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></img>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></img>
-  <img src="https://img.shields.io/badge/-Typescript-blue?logo=Typescript&logoColor=fff"></img>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat"></img>
-  <img src="https://img.shields.io/badge/-webpack-blue?logo=webpack&logoColor=white&style=flat"></img>
-  <br>  
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-  <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-  <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-  <br>
 
-[//]: # (   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zhengwenhong123&show_icons=true&theme=cobalt"></img>)
+# Hi, I'm Zheng Wenhong
 
-[//]: # (   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=zhengwenhong123&show-icons=true&theme=cobalt"></img>)
+### Full-Stack & AI Developer
+
+Building AI tools, exploring knowledge systems, and creating interactive experiences.
+
+[Portfolio](https://yantu.cloudns.club/) · [GitHub](https://github.com/zhengwenhong123) · [X / @starweave_verse](https://x.com/starweave_verse) · [Email](mailto:z1716142352@gmail.com)
+
 </div>
-<p align="center">
-<img height="108px" src="https://github-readme-stats.vercel.app/api?username=zhengwenhong123&icons=true&theme=radical&include_all_commits=true" />
-<img height="108px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengwenhong123&theme=radical&layout=compact" />
-<img height="108px" src="https://github-readme-streak-stats.herokuapp.com/?user=zhengwenhong123&theme=cobalt" />
-</p>
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=zhengwenhong123" alt="zhengwenhong123" />
-</p>
+
 <br>
-<div align="center">
-    <img src="https://camo.githubusercontent.com/95feba6f3724f6cb8764a9b61a2c915355f2c757081a948d9f8dbf6c77c591fd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f726f636b65742e706e67"
-</div>
 
-![](README/Bottom_down.svg)
+<a href="https://yantu.cloudns.club/">
+  <img src="./assets/portfolio-preview.png" alt="My interactive 3D portfolio: an animated character arriving at the coast" width="100%">
+</a>
 
-[//]: # (<div align="center">)
+<p align="center"><sub>A real scene from my portfolio. Click the image to explore the journey.</sub></p>
 
-[//]: # (  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhengwenhong123&theme=vue"></img>  )
+## About me
 
-[//]: # (</div> )
+I'm interested in the space where AI applications, developer tools, and thoughtful interfaces meet. I enjoy turning ideas into working tools and documenting what I learn along the way.
+
+我关注 AI 应用、Agent 工具链与知识管理，也喜欢用交互和三维场景表达想法。这里记录我的项目、实验，以及持续学习的过程。
+
+- **Building:** a personal portfolio that connects an animated character, project showcases, and a journey from the studio to the coast.
+- **Exploring:** agent harnesses, persistent task state, LLM tracing and evaluation, and AI-assisted knowledge workflows.
+- **Learning:** Go, AI infrastructure, and system design.
+
+## Tools & interests
+
+These are the languages and tools I use or explore across projects.
+
+| Area | Languages & tools |
+| --- | --- |
+| Languages | Python · TypeScript · Java |
+| Agents & workflows | LangChain · Pi Durable · Deep Agents |
+| Observability & evaluation | Langfuse |
+| Web & interactive graphics | React · Three.js · WebGL |
+| Backend & deployment | Node.js · Cloudflare · Vercel |
+| Development workflow | Git · GitHub Actions · Codex · Claude Code · Muse |
+| Knowledge systems | Obsidian · AI-assisted research and documentation |
+
+## Featured work
+
+### A creative journey — interactive 3D portfolio
+
+An animated character guides visitors through a studio, a technology shelf, a project street, a train ride, and a coastal ending. Scroll, explore projects, and switch between Chinese and English.
+
+- Character animation, scene transitions, and interactive project screens.
+- A smaller character download and lighter rendering for touch devices.
+- GitHub Actions checks and automatic production deployments on Vercel.
+
+**[Explore the live site →](https://yantu.cloudns.club/)**
+
+The portfolio source is currently private; the deployed experience is public.
+
+## What I'm exploring next
+
+- **Agent workflows:** planning, tools, context management, and reliable execution.
+- **Knowledge systems:** connecting notes, source material, and AI-assisted discovery.
+- **LLM observability:** understanding traces, evaluating outputs, and tracking latency and cost.
+- **Web performance:** keeping interactive experiences usable across desktop and mobile.
+
+## Let's connect
+
+I'm happy to exchange ideas about AI applications, developer tools, knowledge workflows, and interactive web experiences.
+
+- **Portfolio:** [yantu.cloudns.club](https://yantu.cloudns.club/)
+- **Email:** [z1716142352@gmail.com](mailto:z1716142352@gmail.com)
+- **X:** [@starweave_verse](https://x.com/starweave_verse)
+- **GitHub:** [@zhengwenhong123](https://github.com/zhengwenhong123)
+
+---
+
+<p align="center">From ideas to things you can try.</p>
