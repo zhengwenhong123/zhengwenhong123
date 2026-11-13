@@ -8,11 +8,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://yantu.cloudns.club/"><img src="./assets/demo.gif" alt="A real demo of my interactive 3D portfolio: studio, tools, city, train and coast" width="800"></a>
-  <br>
-  <sub>🎬 A real journey through my portfolio · Click to explore the live website</sub>
-</div>
 
 <br>
 
@@ -147,113 +142,6 @@ Learning, building, and sharing along the way
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌊 A Creative Journey
-
-> My interactive 3D portfolio, from a studio to a coastal sunset.
-
-Animated character, project screens, train journey, Chinese / English, and a lighter mobile model.
-
-**[Explore the portfolio →](https://yantu.cloudns.club/)**
-
-<img src="./assets/badges/typescript.svg" alt="TypeScript">
-<img src="./assets/badges/react.svg" alt="React">
-<img src="./assets/badges/threejs.svg" alt="Three.js">
-
-<sub>Live website · Source currently private</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Personal Brain
-
-> A personal knowledge workspace built around Obsidian and AI-assisted workflows.
-
-Exploring source organization, connected notes, research and reusable knowledge.
-
-<img src="./assets/badges/python.svg" alt="Python">
-<img src="./assets/badges/claude.svg" alt="Claude Code">
-<img src="./assets/badges/obsidian.svg" alt="Obsidian">
-
-<sub>Private workspace · Learning and experimentation</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 Character Studio
-
-> One original character, multiple styles, views and expressions.
-
-Explore the artwork and an animated 3D model with the same character used in the portfolio.
-
-**[Open Character Studio →](https://yantu.cloudns.club/character)** · **[View 3D motions →](https://yantu.cloudns.club/model)**
-
-<img src="./assets/badges/react.svg" alt="React">
-<img src="./assets/badges/threejs.svg" alt="Three.js">
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Material Lab
-
-> A small interactive experiment inside the portfolio's technology chapter.
-
-Try roughness, metalness and wireframe controls, then return to the same journey.
-
-**[Visit the technology chapter →](https://yantu.cloudns.club/#tech-stack)**
-
-<img src="./assets/badges/typescript.svg" alt="TypeScript">
-<img src="./assets/badges/threejs.svg" alt="Three.js">
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-<img src="./assets/badges/live.svg" alt="Live Portfolio"><br><br>
-<b>3D Portfolio</b><br>
-<sub>✅ Live on my own domain</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/badges/ci.svg" alt="CI / CD"><br><br>
-<b>Automatic Delivery</b><br>
-<sub>✅ GitHub → Vercel</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/badges/mobile.svg" alt="Mobile Optimized"><br><br>
-<b>Mobile Performance</b><br>
-<sub>✅ Smaller character asset</sub>
-</td>
-<td width="25%" align="center" valign="top">
-<img src="./assets/badges/exploring.svg" alt="Exploring Agents"><br><br>
-<b>Agents & Knowledge</b><br>
-<sub>🔄 Exploring and learning</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Achievements · Shipped Milestones
-
-<p align="center"><img src="./assets/shipped-milestones.svg" alt="Verified milestones: live portfolio, CI/CD, mobile model optimization, and Chinese/English interface" width="100%"></p>
-
-<sub>From interactive scenes to automated delivery — milestones from the current portfolio.</sub>
-
----
 
 ## 🐍 Contribution Snake
 
