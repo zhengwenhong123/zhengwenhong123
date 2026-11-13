@@ -1,0 +1,43 @@
+name: Refresh profile visuals
+
+on:
+  schedule:
+    - cron: '17 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
+        with:
+          node-version: 24
+      - name: Generate stats from this account
+        run: node .github/scripts/profile-assets.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Generate this account's contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: zhengwenhong123
+          outputs: |
+            assets/github-contribution-grid-snake.svg?color_snake=#7c3aed
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a78bfa
+      - name: Save refreshed visuals
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh profile activity visuals'
+            git push
+          fi
